@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-06T15:17:00 IST" name="Suite" finished-at="2022-10-06T15:20:55 IST" duration-ms="234994">
+    <groups>
+    </groups>
+    <test started-at="2022-10-06T15:17:00 IST" name="Test" finished-at="2022-10-06T15:20:55 IST" duration-ms="234994">
+      <class name="ecommerceTests.LoginTest">
+        <test-method is-config="true" signature="initializeWebDriver()[pri:0, instance:ecommerceTests.LoginTest@3773862a]" started-at="2022-10-06T15:17:00 IST" name="initializeWebDriver" finished-at="2022-10-06T15:17:10 IST" duration-ms="9456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeWebDriver -->
+        <test-method signature="loginTest()[pri:0, instance:ecommerceTests.LoginTest@3773862a]" started-at="2022-10-06T15:18:34 IST" name="loginTest" finished-at="2022-10-06T15:19:25 IST" duration-ms="51560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- ecommerceTests.LoginTest -->
+      <class name="ecommerceTests.Seach_and_AddCart_Test">
+        <test-method is-config="true" signature="initializeWebDriver()[pri:0, instance:ecommerceTests.Seach_and_AddCart_Test@4c5204af]" started-at="2022-10-06T15:17:10 IST" name="initializeWebDriver" finished-at="2022-10-06T15:17:11 IST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeWebDriver -->
+        <test-method signature="search_addCar_Test()[pri:0, instance:ecommerceTests.Seach_and_AddCart_Test@4c5204af]" started-at="2022-10-06T15:17:11 IST" name="search_addCar_Test" finished-at="2022-10-06T15:18:34 IST" duration-ms="82768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_addCar_Test -->
+      </class> <!-- ecommerceTests.Seach_and_AddCart_Test -->
+      <class name="ecommerceTests.ProductDetailsTest">
+        <test-method is-config="true" signature="initializeWebDriver()[pri:0, instance:ecommerceTests.ProductDetailsTest@2472c7d8]" started-at="2022-10-06T15:17:10 IST" name="initializeWebDriver" finished-at="2022-10-06T15:17:10 IST" duration-ms="634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeWebDriver -->
+        <test-method signature="product_more_details_addCart_Test()[pri:0, instance:ecommerceTests.ProductDetailsTest@2472c7d8]" started-at="2022-10-06T15:19:25 IST" name="product_more_details_addCart_Test" finished-at="2022-10-06T15:20:55 IST" duration-ms="89360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product_more_details_addCart_Test -->
+      </class> <!-- ecommerceTests.ProductDetailsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="resources.Listeners"></listener>
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="ecommerceTests.Seach_and_AddCart_Test"/>
+      <class name="ecommerceTests.LoginTest"/>
+      <class name="ecommerceTests.ProductDetailsTest"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

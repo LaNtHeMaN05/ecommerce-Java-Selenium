@@ -1,0 +1,427 @@
+[INFO ] 2022-10-02 22:09:01.619 [main] LoginTest - *****************Login Test - Started****************
+[INFO ] 2022-10-02 22:09:02.863 [main] LoginTest - Driver Initalized Successfully
+[INFO ] 2022-10-02 22:09:18.275 [main] LoginTest - Test URL loaded Successfully
+[INFO ] 2022-10-02 22:09:18.276 [main] Seach_and_AddCart_Test - **************Search and AddCart Test - Started****************
+[INFO ] 2022-10-02 22:09:18.927 [main] Seach_and_AddCart_Test - Driver Initialized Successfully
+[INFO ] 2022-10-02 22:09:23.587 [main] Seach_and_AddCart_Test - Test URL Loaded Successfully
+[INFO ] 2022-10-02 22:09:38.218 [main] Seach_and_AddCart_Test - Login Successful
+[INFO ] 2022-10-02 22:09:42.334 [main] Seach_and_AddCart_Test - Search was completed Successfully
+[INFO ] 2022-10-02 22:09:42.352 [main] Seach_and_AddCart_Test - Explicit Wait initialized for adding to cart
+[INFO ] 2022-10-02 22:09:45.188 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:09:47.986 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:09:49.328 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:09:51.280 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:09:58.849 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:10:06.773 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:10:10.657 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:10:16.459 [main] Seach_and_AddCart_Test - Navigating to CART
+[INFO ] 2022-10-02 22:10:16.472 [main] Seach_and_AddCart_Test - Summary Items was concatenated with product list
+[INFO ] 2022-10-02 22:10:16.474 [main] Seach_and_AddCart_Test - Assertion Successful with added products to CART
+[INFO ] 2022-10-02 22:10:22.380 [main] LoginTest - Login Button clicked from HomePage
+[INFO ] 2022-10-02 22:10:27.639 [main] LoginTest - Checking Wrong Creds Successfully
+[INFO ] 2022-10-02 22:10:32.614 [main] LoginTest - Login Passed Successfully
+[INFO ] 2022-10-02 22:10:32.626 [main] LoginTest - Assertion Passed Successfully
+[INFO ] 2022-10-02 22:10:38.198 [main] LoginTest - Logged Out Successfully
+[INFO ] 2022-10-02 22:10:38.198 [main] LoginTest - *************Login Test - Passed*****************
+[INFO ] 2022-10-02 22:52:50.877 [main] LoginTest - *****************Login Test - Started****************
+[INFO ] 2022-10-02 22:52:52.429 [main] LoginTest - Driver Initalized Successfully
+[INFO ] 2022-10-02 22:53:01.867 [main] LoginTest - Test URL loaded Successfully
+[INFO ] 2022-10-02 22:53:01.869 [main] Seach_and_AddCart_Test - **************Search and AddCart Test - Started****************
+[INFO ] 2022-10-02 22:53:02.512 [main] Seach_and_AddCart_Test - Driver Initialized Successfully
+[INFO ] 2022-10-02 22:53:13.005 [main] Seach_and_AddCart_Test - Test URL Loaded Successfully
+[INFO ] 2022-10-02 22:53:51.105 [main] Seach_and_AddCart_Test - Login Successful
+[INFO ] 2022-10-02 22:54:02.727 [main] Seach_and_AddCart_Test - Search was completed Successfully
+[INFO ] 2022-10-02 22:54:02.749 [main] Seach_and_AddCart_Test - Explicit Wait initialized for adding to cart
+[INFO ] 2022-10-02 22:54:10.400 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:54:16.948 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:54:19.565 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:54:20.759 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:54:21.989 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:54:28.465 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:54:35.398 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 22:54:41.552 [main] Seach_and_AddCart_Test - Navigating to CART
+[INFO ] 2022-10-02 22:54:41.570 [main] Seach_and_AddCart_Test - Summary Items was concatenated with product list
+[INFO ] 2022-10-02 22:54:41.572 [main] Seach_and_AddCart_Test - Assertion Successful with added products to CART
+[INFO ] 2022-10-02 23:00:04.743 [main] LoginTest - *****************Login Test - Started****************
+[INFO ] 2022-10-02 23:00:06.010 [main] LoginTest - Driver Initalized Successfully
+[INFO ] 2022-10-02 23:00:11.654 [main] LoginTest - Test URL loaded Successfully
+[INFO ] 2022-10-02 23:00:11.655 [main] Seach_and_AddCart_Test - **************Search and AddCart Test - Started****************
+[INFO ] 2022-10-02 23:00:12.323 [main] Seach_and_AddCart_Test - Driver Initialized Successfully
+[INFO ] 2022-10-02 23:00:16.858 [main] Seach_and_AddCart_Test - Test URL Loaded Successfully
+[INFO ] 2022-10-02 23:00:29.630 [main] Seach_and_AddCart_Test - Login Successful
+[INFO ] 2022-10-02 23:00:34.215 [main] Seach_and_AddCart_Test - Search was completed Successfully
+[INFO ] 2022-10-02 23:00:34.236 [main] Seach_and_AddCart_Test - Explicit Wait initialized for adding to cart
+[INFO ] 2022-10-02 23:00:38.981 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:00:42.510 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:00:44.873 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:00:48.296 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:00:50.796 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:00:52.793 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:00:54.197 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:00:55.993 [main] Seach_and_AddCart_Test - Navigating to CART
+[INFO ] 2022-10-02 23:00:56.008 [main] Seach_and_AddCart_Test - Summary Items was concatenated with product list
+[INFO ] 2022-10-02 23:00:56.009 [main] Seach_and_AddCart_Test - Assertion Successful with added products to CART
+[INFO ] 2022-10-02 23:04:46.548 [main] LoginTest - *****************Login Test - Started****************
+[INFO ] 2022-10-02 23:04:47.802 [main] LoginTest - Driver Initalized Successfully
+[INFO ] 2022-10-02 23:04:52.752 [main] LoginTest - Test URL loaded Successfully
+[INFO ] 2022-10-02 23:04:52.753 [main] Seach_and_AddCart_Test - **************Search and AddCart Test - Started****************
+[INFO ] 2022-10-02 23:04:53.412 [main] Seach_and_AddCart_Test - Driver Initialized Successfully
+[INFO ] 2022-10-02 23:04:58.090 [main] Seach_and_AddCart_Test - Test URL Loaded Successfully
+[INFO ] 2022-10-02 23:05:15.040 [main] Seach_and_AddCart_Test - Login Successful
+[INFO ] 2022-10-02 23:05:17.826 [main] Seach_and_AddCart_Test - Search was completed Successfully
+[INFO ] 2022-10-02 23:05:17.845 [main] Seach_and_AddCart_Test - Explicit Wait initialized for adding to cart
+[INFO ] 2022-10-02 23:05:19.135 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:05:20.237 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:05:21.326 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:05:22.504 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:05:23.729 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:05:25.145 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:05:26.437 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-02 23:05:28.324 [main] Seach_and_AddCart_Test - Navigating to CART
+[INFO ] 2022-10-02 23:05:28.340 [main] Seach_and_AddCart_Test - Summary Items was concatenated with product list
+[INFO ] 2022-10-02 23:05:28.341 [main] Seach_and_AddCart_Test - Assertion Successful with added products to CART
+[INFO ] 2022-10-02 23:05:31.922 [main] LoginTest - Login Button clicked from HomePage
+[INFO ] 2022-10-02 23:05:33.215 [main] LoginTest - Checking Wrong Creds Successfully
+[INFO ] 2022-10-02 23:05:37.283 [main] LoginTest - Login Passed Successfully
+[INFO ] 2022-10-02 23:05:37.296 [main] LoginTest - Assertion Passed Successfully
+[INFO ] 2022-10-02 23:05:43.863 [main] LoginTest - Logged Out Successfully
+[INFO ] 2022-10-02 23:05:43.863 [main] LoginTest - *************Login Test - Passed*****************
+[INFO ] 2022-10-03 23:36:28.209 [main] LoginTest - *****************Login Test - Started****************
+[INFO ] 2022-10-03 23:36:30.376 [main] LoginTest - Driver Initalized Successfully
+[INFO ] 2022-10-03 23:36:35.845 [main] LoginTest - Test URL loaded Successfully
+[INFO ] 2022-10-03 23:36:35.846 [main] Seach_and_AddCart_Test - **************Search and AddCart Test - Started****************
+[INFO ] 2022-10-03 23:36:36.490 [main] Seach_and_AddCart_Test - Driver Initialized Successfully
+[INFO ] 2022-10-03 23:36:41.151 [main] Seach_and_AddCart_Test - Test URL Loaded Successfully
+[INFO ] 2022-10-03 23:36:50.924 [main] Seach_and_AddCart_Test - Login Successful
+[INFO ] 2022-10-03 23:36:53.646 [main] Seach_and_AddCart_Test - Search was completed Successfully
+[INFO ] 2022-10-03 23:36:53.698 [main] Seach_and_AddCart_Test - Explicit Wait initialized for adding to cart
+[INFO ] 2022-10-03 23:36:57.471 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:37:01.058 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:37:11.852 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:37:22.003 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:37:40.974 [main] LoginTest - Login Button clicked from HomePage
+[INFO ] 2022-10-03 23:40:18.332 [main] LoginTest - *****************Login Test - Started****************
+[INFO ] 2022-10-03 23:40:19.586 [main] LoginTest - Driver Initalized Successfully
+[INFO ] 2022-10-03 23:40:24.206 [main] LoginTest - Test URL loaded Successfully
+[INFO ] 2022-10-03 23:40:24.207 [main] Seach_and_AddCart_Test - **************Search and AddCart Test - Started****************
+[INFO ] 2022-10-03 23:40:24.853 [main] Seach_and_AddCart_Test - Driver Initialized Successfully
+[INFO ] 2022-10-03 23:40:29.941 [main] Seach_and_AddCart_Test - Test URL Loaded Successfully
+[INFO ] 2022-10-03 23:40:38.673 [main] Seach_and_AddCart_Test - Login Successful
+[INFO ] 2022-10-03 23:40:41.290 [main] Seach_and_AddCart_Test - Search was completed Successfully
+[INFO ] 2022-10-03 23:40:41.312 [main] Seach_and_AddCart_Test - Explicit Wait initialized for adding to cart
+[INFO ] 2022-10-03 23:40:44.158 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:40:46.985 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:40:48.086 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:40:50.088 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:40:51.264 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:40:52.879 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:40:57.187 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-03 23:41:02.332 [main] Seach_and_AddCart_Test - Navigating to CART
+[INFO ] 2022-10-03 23:41:02.365 [main] Seach_and_AddCart_Test - Summary Items was concatenated with product list
+[INFO ] 2022-10-03 23:41:02.367 [main] Seach_and_AddCart_Test - Assertion Successful with added products to CART
+[INFO ] 2022-10-03 23:41:07.562 [main] LoginTest - Login Button clicked from HomePage
+[INFO ] 2022-10-03 23:41:10.170 [main] LoginTest - Checking Wrong Creds Successfully
+[INFO ] 2022-10-03 23:41:17.000 [main] LoginTest - Login Passed Successfully
+[INFO ] 2022-10-03 23:41:17.013 [main] LoginTest - Assertion Passed Successfully
+[INFO ] 2022-10-03 23:41:21.484 [main] LoginTest - Logged Out Successfully
+[INFO ] 2022-10-03 23:41:21.484 [main] LoginTest - *************Login Test - Passed*****************
+[INFO ] 2022-10-05 12:15:49.696 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 12:15:51.636 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 12:15:57.418 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 12:16:12.150 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 12:17:17.333 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 12:17:18.603 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 12:17:23.528 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 12:17:33.850 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 12:19:19.139 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 12:19:20.401 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 12:19:24.914 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 12:20:12.127 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 12:20:13.420 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 12:20:18.585 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 12:20:46.751 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 12:20:48.027 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 12:20:52.642 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 12:39:56.060 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 12:39:57.638 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 12:40:09.975 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 12:40:32.269 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 12:41:47.258 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 12:41:48.518 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 12:41:54.556 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 12:42:21.694 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 12:42:22.970 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 12:42:27.642 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 12:43:08.518 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 12:43:09.766 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 12:43:15.911 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 12:43:47.346 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 12:43:48.641 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 12:43:53.247 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 18:37:12.717 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 18:37:14.730 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 18:37:27.959 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 18:38:21.306 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 18:38:21.307 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 18:38:21.318 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 18:38:36.770 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 18:38:36.850 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 18:39:25.764 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 18:39:27.024 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 18:39:44.995 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 18:39:50.506 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 18:39:51.773 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 18:40:08.351 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 18:40:39.094 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 18:40:39.095 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 18:40:39.106 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 18:40:48.382 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 18:40:48.458 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 18:41:21.113 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 18:41:22.361 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 18:41:35.886 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 18:45:02.478 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 18:45:03.741 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 18:45:16.443 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 19:08:49.904 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 19:08:51.440 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 19:09:03.738 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 19:09:44.742 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 19:09:44.743 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 20:58:51.012 [main] LoginTest - *****************Login Test - Started****************
+[INFO ] 2022-10-05 20:58:52.591 [main] LoginTest - Driver Initalized Successfully
+[INFO ] 2022-10-05 20:58:57.731 [main] LoginTest - Test URL loaded Successfully
+[INFO ] 2022-10-05 20:58:57.732 [main] Seach_and_AddCart_Test - **************Search and AddCart Test - Started****************
+[INFO ] 2022-10-05 20:58:58.373 [main] Seach_and_AddCart_Test - Driver Initialized Successfully
+[INFO ] 2022-10-05 20:59:11.299 [main] Seach_and_AddCart_Test - Test URL Loaded Successfully
+[INFO ] 2022-10-05 20:59:51.135 [main] Seach_and_AddCart_Test - Login Successful
+[INFO ] 2022-10-05 20:59:57.793 [main] Seach_and_AddCart_Test - Search was completed Successfully
+[INFO ] 2022-10-05 20:59:57.811 [main] Seach_and_AddCart_Test - Explicit Wait initialized for adding to cart
+[INFO ] 2022-10-05 21:00:01.531 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:00:05.237 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:00:06.962 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:00:09.649 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:00:11.711 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:00:13.648 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:00:15.080 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:00:18.603 [main] Seach_and_AddCart_Test - Navigating to CART
+[INFO ] 2022-10-05 21:00:18.619 [main] Seach_and_AddCart_Test - Summary Items was concatenated with product list
+[INFO ] 2022-10-05 21:00:18.620 [main] Seach_and_AddCart_Test - Assertion Successful with added products to CART
+[INFO ] 2022-10-05 21:00:21.080 [main] LoginTest - Login Button clicked from HomePage
+[INFO ] 2022-10-05 21:00:22.546 [main] LoginTest - Checking Wrong Creds Successfully
+[INFO ] 2022-10-05 21:00:31.067 [main] LoginTest - Login Passed Successfully
+[INFO ] 2022-10-05 21:00:31.084 [main] LoginTest - Assertion Passed Successfully
+[INFO ] 2022-10-05 21:00:41.724 [main] LoginTest - Logged Out Successfully
+[INFO ] 2022-10-05 21:00:41.724 [main] LoginTest - *************Login Test - Passed*****************
+[INFO ] 2022-10-05 21:01:24.266 [main] LoginTest - *****************Login Test - Started****************
+[INFO ] 2022-10-05 21:01:25.537 [main] LoginTest - Driver Initalized Successfully
+[INFO ] 2022-10-05 21:01:35.561 [main] LoginTest - Test URL loaded Successfully
+[INFO ] 2022-10-05 21:01:35.562 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 21:01:36.216 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 21:01:36.217 [main] Seach_and_AddCart_Test - **************Search and AddCart Test - Started****************
+[INFO ] 2022-10-05 21:01:36.860 [main] Seach_and_AddCart_Test - Driver Initialized Successfully
+[INFO ] 2022-10-05 21:01:48.131 [main] Seach_and_AddCart_Test - Test URL Loaded Successfully
+[INFO ] 2022-10-05 21:02:27.876 [main] Seach_and_AddCart_Test - Login Successful
+[INFO ] 2022-10-05 21:02:39.194 [main] Seach_and_AddCart_Test - Search was completed Successfully
+[INFO ] 2022-10-05 21:02:39.213 [main] Seach_and_AddCart_Test - Explicit Wait initialized for adding to cart
+[INFO ] 2022-10-05 21:02:45.525 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:02:53.314 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:03:00.463 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:03:07.327 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:03:12.032 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:03:17.301 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:03:20.721 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-05 21:03:22.966 [main] Seach_and_AddCart_Test - Navigating to CART
+[INFO ] 2022-10-05 21:03:22.981 [main] Seach_and_AddCart_Test - Summary Items was concatenated with product list
+[INFO ] 2022-10-05 21:03:22.982 [main] Seach_and_AddCart_Test - Assertion Successful with added products to CART
+[INFO ] 2022-10-05 21:03:31.317 [main] LoginTest - Login Button clicked from HomePage
+[INFO ] 2022-10-05 21:03:38.432 [main] LoginTest - Checking Wrong Creds Successfully
+[INFO ] 2022-10-05 21:03:51.907 [main] LoginTest - Login Passed Successfully
+[INFO ] 2022-10-05 21:03:51.920 [main] LoginTest - Assertion Passed Successfully
+[INFO ] 2022-10-05 21:04:14.198 [main] LoginTest - Logged Out Successfully
+[INFO ] 2022-10-05 21:04:14.199 [main] LoginTest - *************Login Test - Passed*****************
+[INFO ] 2022-10-05 21:04:25.446 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 21:04:53.917 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 21:04:53.918 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 21:04:53.926 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:04:58.966 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:04:59.036 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:05:04.457 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:05:04.457 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:05:52.144 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 21:05:53.441 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 21:05:59.399 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 21:06:22.360 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 21:06:22.361 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 21:06:22.372 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:06:27.839 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:06:27.916 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:06:41.313 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:06:41.313 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:07:19.980 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 21:07:21.281 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 21:07:28.507 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 21:07:47.781 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 21:07:47.782 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 21:07:47.792 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:07:52.830 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:07:52.906 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:08:09.319 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:08:09.319 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:09:49.768 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 21:09:51.026 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 21:09:56.029 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 21:10:06.523 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 21:10:06.524 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 21:10:06.534 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:10:09.271 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:10:09.350 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:10:14.500 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:10:14.500 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:10:14.505 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:10:17.028 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:10:17.099 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:10:20.723 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:10:20.723 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:11:07.399 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 21:11:08.649 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 21:11:13.226 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 21:11:23.282 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 21:11:23.283 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 21:11:23.293 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:11:26.354 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:11:26.426 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:11:32.357 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:11:32.357 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:11:32.362 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:11:36.022 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:11:36.094 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:11:40.328 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:11:40.329 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:12:22.086 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 21:12:23.340 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 21:12:28.446 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 21:12:39.505 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 21:12:39.506 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 21:12:39.516 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:12:43.683 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:12:43.763 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:12:51.546 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:12:51.546 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:12:51.551 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:12:56.044 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:12:56.122 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:13:10.154 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:13:10.154 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:14:50.392 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 21:14:51.612 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 21:14:57.251 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 21:15:20.863 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 21:15:20.864 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 21:15:20.875 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:15:27.170 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:15:27.256 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:15:40.962 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:15:40.962 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:15:40.967 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:15:44.667 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:15:44.743 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:16:06.124 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:16:06.124 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:17:01.897 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-05 21:17:03.157 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-05 21:17:08.743 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-05 21:17:15.158 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-05 21:17:15.158 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-05 21:17:15.170 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:17:17.659 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:17:17.735 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:17:21.454 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:17:21.454 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-05 21:17:21.460 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-05 21:17:23.738 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-05 21:17:23.809 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-05 21:17:28.869 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-05 21:17:28.869 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-06 14:57:30.157 [main] LoginTest - *****************Login Test - Started****************
+[INFO ] 2022-10-06 14:57:32.001 [main] LoginTest - Driver Initalized Successfully
+[INFO ] 2022-10-06 14:57:45.372 [main] LoginTest - Test URL loaded Successfully
+[INFO ] 2022-10-06 14:57:45.372 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-06 14:57:46.023 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-06 14:57:46.024 [main] Seach_and_AddCart_Test - **************Search and AddCart Test - Started****************
+[INFO ] 2022-10-06 14:57:46.660 [main] Seach_and_AddCart_Test - Driver Initialized Successfully
+[INFO ] 2022-10-06 14:57:56.250 [main] Seach_and_AddCart_Test - Test URL Loaded Successfully
+[INFO ] 2022-10-06 14:58:35.706 [main] Seach_and_AddCart_Test - Login Successful
+[INFO ] 2022-10-06 14:58:42.668 [main] Seach_and_AddCart_Test - Search was completed Successfully
+[INFO ] 2022-10-06 14:58:42.694 [main] Seach_and_AddCart_Test - Explicit Wait initialized for adding to cart
+[INFO ] 2022-10-06 14:58:47.349 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 14:58:48.694 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 14:58:49.717 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 14:58:51.431 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 14:58:54.382 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 14:58:57.023 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 14:58:58.868 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 14:59:06.479 [main] Seach_and_AddCart_Test - Navigating to CART
+[INFO ] 2022-10-06 14:59:06.511 [main] Seach_and_AddCart_Test - Summary Items was concatenated with product list
+[INFO ] 2022-10-06 14:59:06.512 [main] Seach_and_AddCart_Test - Assertion Successful with added products to CART
+[INFO ] 2022-10-06 14:59:14.700 [main] LoginTest - Login Button clicked from HomePage
+[INFO ] 2022-10-06 14:59:18.723 [main] LoginTest - Checking Wrong Creds Successfully
+[INFO ] 2022-10-06 14:59:26.584 [main] LoginTest - Login Passed Successfully
+[INFO ] 2022-10-06 14:59:26.599 [main] LoginTest - Assertion Passed Successfully
+[INFO ] 2022-10-06 14:59:33.966 [main] LoginTest - Logged Out Successfully
+[INFO ] 2022-10-06 14:59:33.966 [main] LoginTest - *************Login Test - Passed*****************
+[INFO ] 2022-10-06 14:59:41.824 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-06 15:00:06.019 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-06 15:00:06.040 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-06 15:00:06.047 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-06 15:00:10.093 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-06 15:00:10.167 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-06 15:00:13.858 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-06 15:00:13.858 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-06 15:00:13.862 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-06 15:00:16.446 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-06 15:00:16.513 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-06 15:00:31.682 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-06 15:00:31.682 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-06 15:00:31.688 [main] ProductDetailsTest - *************************Product Details Test - Completed****************************
+[INFO ] 2022-10-06 15:17:00.600 [main] LoginTest - *****************Login Test - Started****************
+[INFO ] 2022-10-06 15:17:01.839 [main] LoginTest - Driver Initalized Successfully
+[INFO ] 2022-10-06 15:17:10.050 [main] LoginTest - Test URL loaded Successfully
+[INFO ] 2022-10-06 15:17:10.051 [main] ProductDetailsTest - **************Product Details Test - Started****************
+[INFO ] 2022-10-06 15:17:10.683 [main] ProductDetailsTest - Driver Initialized Successfully
+[INFO ] 2022-10-06 15:17:10.684 [main] Seach_and_AddCart_Test - **************Search and AddCart Test - Started****************
+[INFO ] 2022-10-06 15:17:11.340 [main] Seach_and_AddCart_Test - Driver Initialized Successfully
+[INFO ] 2022-10-06 15:17:20.329 [main] Seach_and_AddCart_Test - Test URL Loaded Successfully
+[INFO ] 2022-10-06 15:17:47.995 [main] Seach_and_AddCart_Test - Login Successful
+[INFO ] 2022-10-06 15:17:54.286 [main] Seach_and_AddCart_Test - Search was completed Successfully
+[INFO ] 2022-10-06 15:17:54.303 [main] Seach_and_AddCart_Test - Explicit Wait initialized for adding to cart
+[INFO ] 2022-10-06 15:17:56.973 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 15:18:00.821 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 15:18:02.834 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 15:18:06.726 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 15:18:10.313 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 15:18:15.056 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 15:18:21.724 [main] Seach_and_AddCart_Test - Adding Element to CART
+[INFO ] 2022-10-06 15:18:34.102 [main] Seach_and_AddCart_Test - Navigating to CART
+[INFO ] 2022-10-06 15:18:34.116 [main] Seach_and_AddCart_Test - Summary Items was concatenated with product list
+[INFO ] 2022-10-06 15:18:34.118 [main] Seach_and_AddCart_Test - Assertion Successful with added products to CART
+[INFO ] 2022-10-06 15:18:42.302 [main] LoginTest - Login Button clicked from HomePage
+[INFO ] 2022-10-06 15:18:48.131 [main] LoginTest - Checking Wrong Creds Successfully
+[INFO ] 2022-10-06 15:18:57.369 [main] LoginTest - Login Passed Successfully
+[INFO ] 2022-10-06 15:18:57.383 [main] LoginTest - Assertion Passed Successfully
+[INFO ] 2022-10-06 15:19:25.802 [main] LoginTest - Logged Out Successfully
+[INFO ] 2022-10-06 15:19:25.802 [main] LoginTest - *************Login Test - Passed*****************
+[INFO ] 2022-10-06 15:19:42.752 [main] ProductDetailsTest - Test URL Loaded Successfully
+[INFO ] 2022-10-06 15:20:14.959 [main] ProductDetailsTest - Login Successful
+[INFO ] 2022-10-06 15:20:14.960 [main] ProductDetailsTest - Loop Starting for each product to be added
+[INFO ] 2022-10-06 15:20:14.968 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-06 15:20:22.380 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-06 15:20:22.457 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-06 15:20:39.256 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-06 15:20:39.256 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-06 15:20:39.261 [main] ProductDetailsTest - Clicking the Product to view more Details
+[INFO ] 2022-10-06 15:20:45.371 [main] ProductDetailsTest - Quantity Added for this product
+[INFO ] 2022-10-06 15:20:45.441 [main] ProductDetailsTest - Product Submitted to cart
+[INFO ] 2022-10-06 15:20:55.268 [main] ProductDetailsTest - Redirecting to Home-page
+[INFO ] 2022-10-06 15:20:55.269 [main] ProductDetailsTest - Loop Completed for this product
+[INFO ] 2022-10-06 15:20:55.274 [main] ProductDetailsTest - *************************Product Details Test - Completed****************************
